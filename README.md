@@ -18,19 +18,14 @@ Dos niños están jugando en un hermoso jardín. De repente, el juguete favorito
 - Audio/: Contiene el audio que tiene el juego
 - laberinto.py: El archivo principal que contiene el código del juego.
 ## Arte
-
 ### Personaje
 | Frente | Perfil 1 | Perfil 2 |
 | ---------| ----------| ----------|
 | ![Niña](Laberinto/Images/niña.png) | ![Perfil 1](Laberinto/Images/niña_rigth.png) | ![Perfil 2](Laberinto/Images/niña_left.png) |
-
 ### Win/GameOver
-
 | Victoria | Game Over |
 | ---------| ----------|
 | ![Victoria](Laberinto/Images/winn.png) | ![Game Over](Laberinto/Images/game_over.png) |
-
-
 ## Créditos
 Al tutorial de Santiago Lasso que sirvió de ayuda para realizar este proyecto.
 ## Agradecimientos
