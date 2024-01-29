@@ -20,9 +20,9 @@ Dos niños están jugando en un hermoso jardín. De repente, el juguete favorito
 ## Arte
 
 ### Personaje
-| Frente | Perfil |
-| ---------| ----------|
-| ![Niña](Laberinto/Images/niña.png) | ![Game Over](Laberinto/Images/game_over.png) |
+| Frente | Perfil 1 | Perfil 2 |
+| ---------| ----------| ----------|
+| ![Niña](Laberinto/Images/niña.png) | ![Perfil 1](Laberinto/Images/niña_rigth.png) | ![Perfil 2](Laberinto/Images/niña_left.png) |
 
 ### Win/GameOver
 
