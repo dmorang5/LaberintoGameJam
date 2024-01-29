@@ -6,7 +6,7 @@ Dos niños están jugando en un hermoso jardín. De repente, el juguete favorito
 - **Movimiento de la hermana:** Utiliza las teclas de flecha para mover a la hermana hacia arriba, abajo, izquierda o derecha.
 - **Final del Juego:** El juego finaliza cuando la hermana encuentre la salida del jardín y recolecta todos los objetos antes de que se termine el tiempo.
 ## Requisitos
-1. Python 3.6 o superior
+1. Python 3.9 o superior
 2. Librería Pygame
 ## Pasos para jugar
 1. Abre la ventana del juego.
